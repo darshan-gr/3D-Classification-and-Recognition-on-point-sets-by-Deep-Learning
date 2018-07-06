@@ -24,7 +24,7 @@ To train a model to classify point clouds sampled from 3D shapes in classificati
 
     python train.py
 
-Log files and network parameters will be saved to `log` folder in default. Download the Point clouds of <a href="http://modelnet.cs.princeton.edu/" target="_blank">ModelNet40</a> models to the data folder, then convert these files after subsampling to hdf5 format using files provided in `classification/data` directory. Each point cloud contains 2048 points uniformly sampled from a shape surface. Each cloud is zero-mean and normalized into an unit sphere. There are also text files in `data/modelnet40_ply_hdf5_2048` specifying the ids of shapes in h5 files.
+Log files and network parameters will be saved to `log` folder in default. Download the Point clouds of <a href="http://modelnet.cs.princeton.edu/" target="_blank">ModelNet40</a> models to the data folder, then convert these files after subsampling to hdf5 format using files provided in `classification/data` directory. Each point cloud contains 2048 points uniformly sampled from a shape surface. Each cloud is zero-mean and normalized into an unit sphere. 
 
 To see HELP for the training script:
 
@@ -41,5 +41,5 @@ After the above training, we can evaluate the model and output some visualizatio
 Point clouds that are wrongly classified will be saved to `dump` folder in default. We visualize the point cloud by rendering it into three-view images.
 
 
-### To DO:
+### To Do:
 Part segmentation and Semantic segmantation datasets preparation are still under process
