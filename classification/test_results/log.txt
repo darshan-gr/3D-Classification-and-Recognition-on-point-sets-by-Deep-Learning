@@ -1,0 +1,5 @@
+Loading model train_results/trained_models/epoch_100.ckpt
+Model restored.
+0/16 ...
+Accuracy: 0.686279
+IoU: 0.375817

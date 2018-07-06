@@ -1,0 +1,1210 @@
+
+>>> Training for the epoch 1/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 1.401397
+		Training Seg Mean_loss: 0.259779
+		Training Seg Accuracy: 0.711727
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 1.968797
+		Testing Seg Mean_loss: 0.306550
+		Testing Seg Accuracy: 0.583466
+
+>>> Training for the epoch 2/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.578369
+		Training Seg Mean_loss: 0.207733
+		Training Seg Accuracy: 0.702568
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.463348
+		Testing Seg Mean_loss: 0.210715
+		Testing Seg Accuracy: 0.734924
+
+>>> Training for the epoch 3/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.360594
+		Training Seg Mean_loss: 0.185212
+		Training Seg Accuracy: 0.757015
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.330940
+		Testing Seg Mean_loss: 0.200558
+		Testing Seg Accuracy: 0.719360
+
+>>> Training for the epoch 4/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.271208
+		Training Seg Mean_loss: 0.169510
+		Training Seg Accuracy: 0.774708
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.277009
+		Testing Seg Mean_loss: 0.180248
+		Testing Seg Accuracy: 0.779816
+
+>>> Training for the epoch 5/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.232529
+		Training Seg Mean_loss: 0.164837
+		Training Seg Accuracy: 0.789581
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.248846
+		Testing Seg Mean_loss: 0.190633
+		Testing Seg Accuracy: 0.735260
+
+>>> Training for the epoch 6/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.211149
+		Training Seg Mean_loss: 0.162829
+		Training Seg Accuracy: 0.784443
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.238647
+		Testing Seg Mean_loss: 0.189300
+		Testing Seg Accuracy: 0.760437
+
+>>> Training for the epoch 7/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.191198
+		Training Seg Mean_loss: 0.154604
+		Training Seg Accuracy: 0.793869
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.220593
+		Testing Seg Mean_loss: 0.185270
+		Testing Seg Accuracy: 0.764893
+
+>>> Training for the epoch 8/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.171655
+		Training Seg Mean_loss: 0.143828
+		Training Seg Accuracy: 0.807472
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.205456
+		Testing Seg Mean_loss: 0.170612
+		Testing Seg Accuracy: 0.769562
+
+>>> Training for the epoch 9/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.164112
+		Training Seg Mean_loss: 0.137359
+		Training Seg Accuracy: 0.833130
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.203116
+		Testing Seg Mean_loss: 0.172251
+		Testing Seg Accuracy: 0.811340
+
+>>> Training for the epoch 10/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.177936
+		Training Seg Mean_loss: 0.147443
+		Training Seg Accuracy: 0.810242
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.194985
+		Testing Seg Mean_loss: 0.161666
+		Testing Seg Accuracy: 0.796143
+Successfully store the checkpoint model into train_results\trained_models\epoch_10.ckpt
+
+>>> Training for the epoch 11/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.175532
+		Training Seg Mean_loss: 0.143107
+		Training Seg Accuracy: 0.825569
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.196319
+		Testing Seg Mean_loss: 0.164731
+		Testing Seg Accuracy: 0.756439
+
+>>> Training for the epoch 12/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.155849
+		Training Seg Mean_loss: 0.125995
+		Training Seg Accuracy: 0.838638
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.178094
+		Testing Seg Mean_loss: 0.152624
+		Testing Seg Accuracy: 0.811615
+
+>>> Training for the epoch 13/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.159310
+		Training Seg Mean_loss: 0.122579
+		Training Seg Accuracy: 0.852421
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.170880
+		Testing Seg Mean_loss: 0.133949
+		Testing Seg Accuracy: 0.813904
+
+>>> Training for the epoch 14/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.160470
+		Training Seg Mean_loss: 0.122216
+		Training Seg Accuracy: 0.854427
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.240335
+		Testing Seg Mean_loss: 0.187764
+		Testing Seg Accuracy: 0.833679
+
+>>> Training for the epoch 15/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.172165
+		Training Seg Mean_loss: 0.125604
+		Training Seg Accuracy: 0.846748
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.208543
+		Testing Seg Mean_loss: 0.158726
+		Testing Seg Accuracy: 0.772430
+
+>>> Training for the epoch 16/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.164536
+		Training Seg Mean_loss: 0.120406
+		Training Seg Accuracy: 0.851849
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.168408
+		Testing Seg Mean_loss: 0.131832
+		Testing Seg Accuracy: 0.847687
+
+>>> Training for the epoch 17/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.155570
+		Training Seg Mean_loss: 0.118867
+		Training Seg Accuracy: 0.849331
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.186182
+		Testing Seg Mean_loss: 0.155437
+		Testing Seg Accuracy: 0.844574
+
+>>> Training for the epoch 18/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.152516
+		Training Seg Mean_loss: 0.118580
+		Training Seg Accuracy: 0.855358
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.174402
+		Testing Seg Mean_loss: 0.139337
+		Testing Seg Accuracy: 0.819763
+
+>>> Training for the epoch 19/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.150240
+		Training Seg Mean_loss: 0.116985
+		Training Seg Accuracy: 0.853764
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.172633
+		Testing Seg Mean_loss: 0.139012
+		Testing Seg Accuracy: 0.807587
+
+>>> Training for the epoch 20/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.133604
+		Training Seg Mean_loss: 0.103080
+		Training Seg Accuracy: 0.881287
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.156767
+		Testing Seg Mean_loss: 0.127589
+		Testing Seg Accuracy: 0.827606
+Successfully store the checkpoint model into train_results\trained_models\epoch_20.ckpt
+
+>>> Training for the epoch 21/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.129458
+		Training Seg Mean_loss: 0.100380
+		Training Seg Accuracy: 0.881798
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.133748
+		Testing Seg Mean_loss: 0.103270
+		Testing Seg Accuracy: 0.883728
+
+>>> Training for the epoch 22/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.126742
+		Training Seg Mean_loss: 0.097133
+		Training Seg Accuracy: 0.887699
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.132730
+		Testing Seg Mean_loss: 0.104928
+		Testing Seg Accuracy: 0.884186
+
+>>> Training for the epoch 23/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.124945
+		Training Seg Mean_loss: 0.094452
+		Training Seg Accuracy: 0.886677
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.157952
+		Testing Seg Mean_loss: 0.098927
+		Testing Seg Accuracy: 0.881653
+
+>>> Training for the epoch 24/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.134590
+		Training Seg Mean_loss: 0.100645
+		Training Seg Accuracy: 0.889477
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.165955
+		Testing Seg Mean_loss: 0.131393
+		Testing Seg Accuracy: 0.840942
+
+>>> Training for the epoch 25/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.148979
+		Training Seg Mean_loss: 0.109330
+		Training Seg Accuracy: 0.871479
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.150291
+		Testing Seg Mean_loss: 0.110231
+		Testing Seg Accuracy: 0.883392
+
+>>> Training for the epoch 26/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.126316
+		Training Seg Mean_loss: 0.092523
+		Training Seg Accuracy: 0.890244
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.107296
+		Testing Seg Mean_loss: 0.081544
+		Testing Seg Accuracy: 0.917511
+
+>>> Training for the epoch 27/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.108405
+		Training Seg Mean_loss: 0.081903
+		Training Seg Accuracy: 0.906799
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.109723
+		Testing Seg Mean_loss: 0.083257
+		Testing Seg Accuracy: 0.902649
+
+>>> Training for the epoch 28/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.107233
+		Training Seg Mean_loss: 0.081046
+		Training Seg Accuracy: 0.907284
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.089548
+		Testing Seg Mean_loss: 0.064144
+		Testing Seg Accuracy: 0.932465
+
+>>> Training for the epoch 29/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.120304
+		Training Seg Mean_loss: 0.091945
+		Training Seg Accuracy: 0.891792
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.107354
+		Testing Seg Mean_loss: 0.080303
+		Testing Seg Accuracy: 0.893463
+
+>>> Training for the epoch 30/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.108721
+		Training Seg Mean_loss: 0.081035
+		Training Seg Accuracy: 0.909740
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.102896
+		Testing Seg Mean_loss: 0.079248
+		Testing Seg Accuracy: 0.903137
+Successfully store the checkpoint model into train_results\trained_models\epoch_30.ckpt
+
+>>> Training for the epoch 31/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.098152
+		Training Seg Mean_loss: 0.074879
+		Training Seg Accuracy: 0.917465
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.106096
+		Testing Seg Mean_loss: 0.085397
+		Testing Seg Accuracy: 0.911591
+
+>>> Training for the epoch 32/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.088838
+		Training Seg Mean_loss: 0.067697
+		Training Seg Accuracy: 0.922497
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.088823
+		Testing Seg Mean_loss: 0.066560
+		Testing Seg Accuracy: 0.932617
+
+>>> Training for the epoch 33/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.090462
+		Training Seg Mean_loss: 0.069206
+		Training Seg Accuracy: 0.926250
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.117156
+		Testing Seg Mean_loss: 0.092055
+		Testing Seg Accuracy: 0.897644
+
+>>> Training for the epoch 34/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.102604
+		Training Seg Mean_loss: 0.079216
+		Training Seg Accuracy: 0.912376
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.168384
+		Testing Seg Mean_loss: 0.144097
+		Testing Seg Accuracy: 0.834930
+
+>>> Training for the epoch 35/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.098675
+		Training Seg Mean_loss: 0.073476
+		Training Seg Accuracy: 0.918652
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.100052
+		Testing Seg Mean_loss: 0.078390
+		Testing Seg Accuracy: 0.923096
+
+>>> Training for the epoch 36/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.083260
+		Training Seg Mean_loss: 0.063648
+		Training Seg Accuracy: 0.929379
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.067224
+		Testing Seg Mean_loss: 0.051279
+		Testing Seg Accuracy: 0.950195
+
+>>> Training for the epoch 37/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.088081
+		Training Seg Mean_loss: 0.070378
+		Training Seg Accuracy: 0.924213
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.103805
+		Testing Seg Mean_loss: 0.087130
+		Testing Seg Accuracy: 0.920044
+
+>>> Training for the epoch 38/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.094887
+		Training Seg Mean_loss: 0.075765
+		Training Seg Accuracy: 0.911869
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.115690
+		Testing Seg Mean_loss: 0.092507
+		Testing Seg Accuracy: 0.892609
+
+>>> Training for the epoch 39/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.100698
+		Training Seg Mean_loss: 0.076332
+		Training Seg Accuracy: 0.916504
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.093975
+		Testing Seg Mean_loss: 0.071124
+		Testing Seg Accuracy: 0.924286
+
+>>> Training for the epoch 40/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.083970
+		Training Seg Mean_loss: 0.062101
+		Training Seg Accuracy: 0.931400
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.071011
+		Testing Seg Mean_loss: 0.052014
+		Testing Seg Accuracy: 0.946411
+Successfully store the checkpoint model into train_results\trained_models\epoch_40.ckpt
+
+>>> Training for the epoch 41/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.066091
+		Training Seg Mean_loss: 0.049783
+		Training Seg Accuracy: 0.946323
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.071629
+		Testing Seg Mean_loss: 0.056114
+		Testing Seg Accuracy: 0.944702
+
+>>> Training for the epoch 42/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.058399
+		Training Seg Mean_loss: 0.045157
+		Training Seg Accuracy: 0.951725
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.066504
+		Testing Seg Mean_loss: 0.051843
+		Testing Seg Accuracy: 0.946167
+
+>>> Training for the epoch 43/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.059994
+		Training Seg Mean_loss: 0.046172
+		Training Seg Accuracy: 0.952072
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.063282
+		Testing Seg Mean_loss: 0.047803
+		Testing Seg Accuracy: 0.960358
+
+>>> Training for the epoch 44/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.063027
+		Training Seg Mean_loss: 0.047380
+		Training Seg Accuracy: 0.948769
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.080272
+		Testing Seg Mean_loss: 0.063874
+		Testing Seg Accuracy: 0.935852
+
+>>> Training for the epoch 45/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.080531
+		Training Seg Mean_loss: 0.063784
+		Training Seg Accuracy: 0.936466
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.071643
+		Testing Seg Mean_loss: 0.054024
+		Testing Seg Accuracy: 0.955383
+
+>>> Training for the epoch 46/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.084551
+		Training Seg Mean_loss: 0.065711
+		Training Seg Accuracy: 0.922783
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.074895
+		Testing Seg Mean_loss: 0.057780
+		Testing Seg Accuracy: 0.936951
+
+>>> Training for the epoch 47/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.069051
+		Training Seg Mean_loss: 0.053602
+		Training Seg Accuracy: 0.944008
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.064555
+		Testing Seg Mean_loss: 0.052385
+		Testing Seg Accuracy: 0.944489
+
+>>> Training for the epoch 48/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.057631
+		Training Seg Mean_loss: 0.046668
+		Training Seg Accuracy: 0.952354
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.055671
+		Testing Seg Mean_loss: 0.046336
+		Testing Seg Accuracy: 0.957581
+
+>>> Training for the epoch 49/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.052160
+		Training Seg Mean_loss: 0.042233
+		Training Seg Accuracy: 0.954632
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.075149
+		Testing Seg Mean_loss: 0.063972
+		Testing Seg Accuracy: 0.937347
+
+>>> Training for the epoch 50/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.078830
+		Training Seg Mean_loss: 0.063084
+		Training Seg Accuracy: 0.937176
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.096554
+		Testing Seg Mean_loss: 0.074669
+		Testing Seg Accuracy: 0.935089
+Successfully store the checkpoint model into train_results\trained_models\epoch_50.ckpt
+
+>>> Training for the epoch 51/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.084642
+		Training Seg Mean_loss: 0.060241
+		Training Seg Accuracy: 0.934227
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.093528
+		Testing Seg Mean_loss: 0.070442
+		Testing Seg Accuracy: 0.917542
+
+>>> Training for the epoch 52/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.079340
+		Training Seg Mean_loss: 0.059912
+		Training Seg Accuracy: 0.937599
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.075312
+		Testing Seg Mean_loss: 0.056317
+		Testing Seg Accuracy: 0.931732
+
+>>> Training for the epoch 53/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.070630
+		Training Seg Mean_loss: 0.053552
+		Training Seg Accuracy: 0.941006
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.073723
+		Testing Seg Mean_loss: 0.057243
+		Testing Seg Accuracy: 0.929413
+
+>>> Training for the epoch 54/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.065126
+		Training Seg Mean_loss: 0.051452
+		Training Seg Accuracy: 0.944725
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.070303
+		Testing Seg Mean_loss: 0.058414
+		Testing Seg Accuracy: 0.929443
+
+>>> Training for the epoch 55/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.061493
+		Training Seg Mean_loss: 0.048390
+		Training Seg Accuracy: 0.946209
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.061408
+		Testing Seg Mean_loss: 0.048744
+		Testing Seg Accuracy: 0.947784
+
+>>> Training for the epoch 56/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.062978
+		Training Seg Mean_loss: 0.049650
+		Training Seg Accuracy: 0.948475
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.072123
+		Testing Seg Mean_loss: 0.056429
+		Testing Seg Accuracy: 0.937347
+
+>>> Training for the epoch 57/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.067722
+		Training Seg Mean_loss: 0.052288
+		Training Seg Accuracy: 0.943851
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.067658
+		Testing Seg Mean_loss: 0.052792
+		Testing Seg Accuracy: 0.946289
+
+>>> Training for the epoch 58/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.072592
+		Training Seg Mean_loss: 0.059683
+		Training Seg Accuracy: 0.940140
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.088467
+		Testing Seg Mean_loss: 0.071998
+		Testing Seg Accuracy: 0.918182
+
+>>> Training for the epoch 59/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.072898
+		Training Seg Mean_loss: 0.056577
+		Training Seg Accuracy: 0.933521
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.071247
+		Testing Seg Mean_loss: 0.052073
+		Testing Seg Accuracy: 0.939056
+
+>>> Training for the epoch 60/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.058051
+		Training Seg Mean_loss: 0.043553
+		Training Seg Accuracy: 0.955624
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.051872
+		Testing Seg Mean_loss: 0.041039
+		Testing Seg Accuracy: 0.959625
+Successfully store the checkpoint model into train_results\trained_models\epoch_60.ckpt
+
+>>> Training for the epoch 61/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.052373
+		Training Seg Mean_loss: 0.041666
+		Training Seg Accuracy: 0.953678
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.060003
+		Testing Seg Mean_loss: 0.051319
+		Testing Seg Accuracy: 0.934082
+
+>>> Training for the epoch 62/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.043865
+		Training Seg Mean_loss: 0.035215
+		Training Seg Accuracy: 0.965797
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.056395
+		Testing Seg Mean_loss: 0.046098
+		Testing Seg Accuracy: 0.955170
+
+>>> Training for the epoch 63/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.049204
+		Training Seg Mean_loss: 0.040224
+		Training Seg Accuracy: 0.954876
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.041409
+		Testing Seg Mean_loss: 0.033193
+		Testing Seg Accuracy: 0.963531
+
+>>> Training for the epoch 64/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.052243
+		Training Seg Mean_loss: 0.043136
+		Training Seg Accuracy: 0.956589
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.076943
+		Testing Seg Mean_loss: 0.068172
+		Testing Seg Accuracy: 0.931458
+
+>>> Training for the epoch 65/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.050297
+		Training Seg Mean_loss: 0.040601
+		Training Seg Accuracy: 0.958702
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.061951
+		Testing Seg Mean_loss: 0.049609
+		Testing Seg Accuracy: 0.968719
+
+>>> Training for the epoch 66/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.056565
+		Training Seg Mean_loss: 0.045747
+		Training Seg Accuracy: 0.950089
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.060052
+		Testing Seg Mean_loss: 0.049810
+		Testing Seg Accuracy: 0.941589
+
+>>> Training for the epoch 67/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.047759
+		Training Seg Mean_loss: 0.037824
+		Training Seg Accuracy: 0.958458
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.050682
+		Testing Seg Mean_loss: 0.041749
+		Testing Seg Accuracy: 0.947083
+
+>>> Training for the epoch 68/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.044528
+		Training Seg Mean_loss: 0.036066
+		Training Seg Accuracy: 0.963940
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.048439
+		Testing Seg Mean_loss: 0.041332
+		Testing Seg Accuracy: 0.956818
+
+>>> Training for the epoch 69/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.039396
+		Training Seg Mean_loss: 0.032193
+		Training Seg Accuracy: 0.966892
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.050873
+		Testing Seg Mean_loss: 0.043511
+		Testing Seg Accuracy: 0.942596
+
+>>> Training for the epoch 70/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.043775
+		Training Seg Mean_loss: 0.036166
+		Training Seg Accuracy: 0.961170
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.057229
+		Testing Seg Mean_loss: 0.049178
+		Testing Seg Accuracy: 0.944641
+Successfully store the checkpoint model into train_results\trained_models\epoch_70.ckpt
+
+>>> Training for the epoch 71/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.049058
+		Training Seg Mean_loss: 0.039407
+		Training Seg Accuracy: 0.957317
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.057195
+		Testing Seg Mean_loss: 0.048168
+		Testing Seg Accuracy: 0.947845
+
+>>> Training for the epoch 72/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.038406
+		Training Seg Mean_loss: 0.030115
+		Training Seg Accuracy: 0.968990
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.055826
+		Testing Seg Mean_loss: 0.049275
+		Testing Seg Accuracy: 0.954254
+
+>>> Training for the epoch 73/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.031391
+		Training Seg Mean_loss: 0.025384
+		Training Seg Accuracy: 0.975571
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.030945
+		Testing Seg Mean_loss: 0.025999
+		Testing Seg Accuracy: 0.974457
+
+>>> Training for the epoch 74/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.032091
+		Training Seg Mean_loss: 0.026843
+		Training Seg Accuracy: 0.973305
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.038853
+		Testing Seg Mean_loss: 0.032965
+		Testing Seg Accuracy: 0.959381
+
+>>> Training for the epoch 75/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.035319
+		Training Seg Mean_loss: 0.029555
+		Training Seg Accuracy: 0.974316
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.034977
+		Testing Seg Mean_loss: 0.028980
+		Testing Seg Accuracy: 0.966614
+
+>>> Training for the epoch 76/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.036080
+		Training Seg Mean_loss: 0.028656
+		Training Seg Accuracy: 0.968781
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.032724
+		Testing Seg Mean_loss: 0.026257
+		Testing Seg Accuracy: 0.967255
+
+>>> Training for the epoch 77/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.032878
+		Training Seg Mean_loss: 0.025318
+		Training Seg Accuracy: 0.973579
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.035351
+		Testing Seg Mean_loss: 0.029118
+		Testing Seg Accuracy: 0.961639
+
+>>> Training for the epoch 78/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.027034
+		Training Seg Mean_loss: 0.021451
+		Training Seg Accuracy: 0.979012
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.036526
+		Testing Seg Mean_loss: 0.032270
+		Testing Seg Accuracy: 0.966003
+
+>>> Training for the epoch 79/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.027382
+		Training Seg Mean_loss: 0.023117
+		Training Seg Accuracy: 0.976814
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.050409
+		Testing Seg Mean_loss: 0.045350
+		Testing Seg Accuracy: 0.950226
+
+>>> Training for the epoch 80/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.036211
+		Training Seg Mean_loss: 0.031573
+		Training Seg Accuracy: 0.967201
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.032446
+		Testing Seg Mean_loss: 0.027399
+		Testing Seg Accuracy: 0.966461
+Successfully store the checkpoint model into train_results\trained_models\epoch_80.ckpt
+
+>>> Training for the epoch 81/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.035437
+		Training Seg Mean_loss: 0.030344
+		Training Seg Accuracy: 0.964836
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.041964
+		Testing Seg Mean_loss: 0.036961
+		Testing Seg Accuracy: 0.957764
+
+>>> Training for the epoch 82/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.027438
+		Training Seg Mean_loss: 0.022880
+		Training Seg Accuracy: 0.978172
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.035379
+		Testing Seg Mean_loss: 0.031410
+		Testing Seg Accuracy: 0.969299
+
+>>> Training for the epoch 83/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.023790
+		Training Seg Mean_loss: 0.020321
+		Training Seg Accuracy: 0.980576
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.029152
+		Testing Seg Mean_loss: 0.026178
+		Testing Seg Accuracy: 0.972290
+
+>>> Training for the epoch 84/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.021697
+		Training Seg Mean_loss: 0.018267
+		Training Seg Accuracy: 0.981895
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.036377
+		Testing Seg Mean_loss: 0.033297
+		Testing Seg Accuracy: 0.966309
+
+>>> Training for the epoch 85/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.023804
+		Training Seg Mean_loss: 0.020418
+		Training Seg Accuracy: 0.980530
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.040963
+		Testing Seg Mean_loss: 0.037052
+		Testing Seg Accuracy: 0.964233
+
+>>> Training for the epoch 86/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.029663
+		Training Seg Mean_loss: 0.025689
+		Training Seg Accuracy: 0.973957
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.036258
+		Testing Seg Mean_loss: 0.031142
+		Testing Seg Accuracy: 0.968018
+
+>>> Training for the epoch 87/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.038234
+		Training Seg Mean_loss: 0.031722
+		Training Seg Accuracy: 0.966843
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.047548
+		Testing Seg Mean_loss: 0.039927
+		Testing Seg Accuracy: 0.950134
+
+>>> Training for the epoch 88/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.045312
+		Training Seg Mean_loss: 0.038629
+		Training Seg Accuracy: 0.961609
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.052128
+		Testing Seg Mean_loss: 0.045256
+		Testing Seg Accuracy: 0.942352
+
+>>> Training for the epoch 89/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.049383
+		Training Seg Mean_loss: 0.040592
+		Training Seg Accuracy: 0.955826
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.068872
+		Testing Seg Mean_loss: 0.053299
+		Testing Seg Accuracy: 0.933411
+
+>>> Training for the epoch 90/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.062845
+		Training Seg Mean_loss: 0.045880
+		Training Seg Accuracy: 0.953823
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.051747
+		Testing Seg Mean_loss: 0.034721
+		Testing Seg Accuracy: 0.973114
+Successfully store the checkpoint model into train_results\trained_models\epoch_90.ckpt
+
+>>> Training for the epoch 91/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.077682
+		Training Seg Mean_loss: 0.048408
+		Training Seg Accuracy: 0.949821
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.085319
+		Testing Seg Mean_loss: 0.051838
+		Testing Seg Accuracy: 0.952393
+
+>>> Training for the epoch 92/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.087159
+		Training Seg Mean_loss: 0.039924
+		Training Seg Accuracy: 0.957432
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.052982
+		Testing Seg Mean_loss: 0.035534
+		Testing Seg Accuracy: 0.961914
+
+>>> Training for the epoch 93/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.072998
+		Training Seg Mean_loss: 0.036821
+		Training Seg Accuracy: 0.961277
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.065189
+		Testing Seg Mean_loss: 0.041100
+		Testing Seg Accuracy: 0.952240
+
+>>> Training for the epoch 94/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.068576
+		Training Seg Mean_loss: 0.039933
+		Training Seg Accuracy: 0.961834
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.069016
+		Testing Seg Mean_loss: 0.047797
+		Testing Seg Accuracy: 0.954803
+
+>>> Training for the epoch 95/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.069039
+		Training Seg Mean_loss: 0.043329
+		Training Seg Accuracy: 0.954525
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.061502
+		Testing Seg Mean_loss: 0.039059
+		Testing Seg Accuracy: 0.953735
+
+>>> Training for the epoch 96/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.057966
+		Training Seg Mean_loss: 0.039268
+		Training Seg Accuracy: 0.964783
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.057568
+		Testing Seg Mean_loss: 0.041936
+		Testing Seg Accuracy: 0.962799
+
+>>> Training for the epoch 97/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.050569
+		Training Seg Mean_loss: 0.036455
+		Training Seg Accuracy: 0.963074
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.043183
+		Testing Seg Mean_loss: 0.030925
+		Testing Seg Accuracy: 0.967804
+
+>>> Training for the epoch 98/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.049572
+		Training Seg Mean_loss: 0.038343
+		Training Seg Accuracy: 0.960384
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.049653
+		Testing Seg Mean_loss: 0.039788
+		Testing Seg Accuracy: 0.954071
+
+>>> Training for the epoch 99/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.045370
+		Training Seg Mean_loss: 0.035628
+		Training Seg Accuracy: 0.963257
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.043075
+		Testing Seg Mean_loss: 0.035184
+		Testing Seg Accuracy: 0.960632
+
+>>> Training for the epoch 100/100 ...
+Loading train file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_training.h5
+	Training Total Mean_loss: 0.040121
+		Training Seg Mean_loss: 0.031926
+		Training Seg Accuracy: 0.970154
+
+<<< Testing on the test dataset ...
+Loading test file C:\Users\Darsh\Downloads\Point net\PointNet-Plane-Detection-master\./data/hdf5_data\data_testing.h5
+	Testing Total Mean_loss: 0.042362
+		Testing Seg Mean_loss: 0.035483
+		Testing Seg Accuracy: 0.960999
+Successfully store the checkpoint model into train_results\trained_models\epoch_100.ckpt
