@@ -1,5 +1,6 @@
 # 3D-Classification-and-Recognition-on-point-sets-by-Deep-Learning
-### PointNet: *Deep Learning on Point Sets for 3D Classification and Segmentation*
+
+### Deep Learning on Point Sets using PointNet architecture
 
 ### Introduction
 This work is based on [arXiv tech report](https://arxiv.org/abs/1612.00593), which appeared in CVPR 2017. A novel deep net architecture for point clouds (as unordered point sets). You can also check [project webpage](http://stanford.edu/~rqi/pointnet) for a deeper introduction.
